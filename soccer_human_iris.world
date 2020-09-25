@@ -3732,8 +3732,20 @@
             <pose>10 12 0 0 0 -1.5</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>10 12 0 0 0 -1.5</pose>
+          </waypoint>
+	  <waypoint>
+            <time>114</time>
+            <pose>13 0 0 0 0 -1.5</pose>
+          </waypoint>
+	  <waypoint>
+            <time>115</time>
+            <pose>13 0 0 0 0 -3</pose>
+          </waypoint>
+	  <waypoint>
+            <time>145</time>
+            <pose>13 0 0 0 0 -3</pose>
           </waypoint>
         </trajectory>
       </script>
@@ -13709,8 +13721,20 @@
             <pose>-10 12 0 0 -0 -1.5</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>-10 12 0 0 -0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>114</time>
+            <pose>-13 0 0 0 -0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>115</time>
+            <pose>-13 0 0 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-13 0 0 0 -0 0</pose>
           </waypoint>
         </trajectory>
       </script>
@@ -23694,8 +23718,20 @@
             <pose>-9 12 0 0 -0 -1.5</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>-9 12 0 0 -0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>114</time>
+            <pose>-10 2 0 0 -0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>115</time>
+            <pose>-10 2 0 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-10 2 0 0 -0 0</pose>
           </waypoint>
         </trajectory>
       </script>
@@ -33706,7 +33742,7 @@
             <pose>2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -33798,7 +33834,7 @@
             <pose>2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>2.2 10.5 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -33890,7 +33926,7 @@
             <pose>2.2 12 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>2.2 12 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -33982,7 +34018,7 @@
             <pose>2.2 12 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -34074,7 +34110,7 @@
             <pose>2.2 10 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -34166,7 +34202,7 @@
             <pose>2.2 10 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -34258,7 +34294,7 @@
             <pose>-2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>-2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -34350,7 +34386,7 @@
             <pose>-2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>-2.2 10.5 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -34442,7 +34478,7 @@
             <pose>-2.2 12 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>-2.2 12 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -34534,7 +34570,7 @@
             <pose>-2.2 12 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>-2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -34626,7 +34662,7 @@
             <pose>-2.2 10 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>-2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -34718,7 +34754,7 @@
             <pose>-2.2 10 -0.25 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>145</time>
             <pose>-2.2 11 -0.25 0 -0 0</pose>
           </waypoint>
         </trajectory>
@@ -34787,8 +34823,20 @@
             <pose>-8 12 0 0 -0 -1.5</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>-8 12 0 0 -0 -1.5</pose>
+          </waypoint>
+	  <waypoint>
+            <time>114</time>
+            <pose>9 0 0 0 -0 -1.5</pose>
+          </waypoint>
+	  <waypoint>
+            <time>115</time>
+            <pose>9 0 0 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>145</time>
+            <pose>9 0 0 0 -0 0</pose>
           </waypoint>
         </trajectory>
       </script>
@@ -44764,8 +44812,20 @@
             <pose>-7 12 0 0 -0 -1.5</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>-7 12 0 0 -0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>114</time>
+            <pose>8 9 0 0 -0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>115</time>
+            <pose>8 9 0 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>8 9 0 0 -0 0</pose>
           </waypoint>
         </trajectory>
       </script>
@@ -54757,8 +54817,20 @@
             <pose>-6 12 0 0 -0 -1.5</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>-6 12 0 0 -0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>114</time>
+            <pose>9 -8 0 0 -0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>115</time>
+            <pose>9 -8 0 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>9 -8 0 0 -0 0</pose>
           </waypoint>
         </trajectory>
       </script>
@@ -64734,8 +64806,20 @@
             <pose>9 12 0 0 0 -1.5</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>9 12 0 0 0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>114</time>
+            <pose>8 7 0 0 0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>115</time>
+            <pose>8 7 0 0 0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>8 7 0 0 0 0</pose>
           </waypoint>
         </trajectory>
       </script>
@@ -74723,8 +74807,20 @@
             <pose>8 12 0 0 -0 -1.5</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>8 12 0 0 -0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>114</time>
+            <pose>8 -7 0 0 -0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>115</time>
+            <pose>8 -7 0 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>8 -7 0 0 -0 0</pose>
           </waypoint>
         </trajectory>
       </script>
@@ -84700,8 +84796,20 @@
             <pose>7 12 0 0 0 -1.5</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>7 12 0 0 0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>114</time>
+            <pose>0 0 0 0 0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>115</time>
+            <pose>0 0 0 0 0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>0 0 0 0 0 0</pose>
           </waypoint>
         </trajectory>
       </script>
@@ -94677,8 +94785,20 @@
             <pose>6 12 0 0 0 -1.5</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>6 12 0 0 0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>114</time>
+            <pose>3 5 0 0 0 -1.5</pose>
+          </waypoint>
+          <waypoint>
+            <time>115</time>
+            <pose>3 5 0 0 0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>3 5 0 0 0 0</pose>
           </waypoint>
         </trajectory>
       </script>
@@ -104603,6 +104723,1019 @@
         <enable_wind>0</enable_wind>
       </link>
     </actor>
+    <!-- Add sanitizer(fall_front)-->
+    <!-- Add sanitizer(fall_front)-->
+    <actor name='sanf1-1'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100.01</time>
+            <pose>7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>101</time>
+            <pose>7.5 0 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>102</time>
+            <pose>7.5 0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>103</time>
+            <pose>7.5 0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>104</time>
+            <pose>7.5 0 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>105</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf1-2'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100.01</time>
+            <pose>7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>101</time>
+            <pose>7.5 1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>102</time>
+            <pose>7.5 3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>103</time>
+            <pose>7.5 4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>104</time>
+            <pose>7.5 4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>105</time>
+            <pose>7.5 4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf1-3'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100.01</time>
+            <pose>7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>101</time>
+            <pose>7.5 -1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>102</time>
+            <pose>7.5 -3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>103</time>
+            <pose>7.5 -4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>104</time>
+            <pose>7.5 -4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>105</time>
+            <pose>7.5 -4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf1-4'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100.01</time>
+            <pose>7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>101</time>
+            <pose>9.0 0 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>102</time>
+            <pose>10.5 0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>103</time>
+            <pose>11.5 0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>104</time>
+            <pose>12.0 0 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>105</time>
+            <pose>12.25 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf1-5'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100.01</time>
+            <pose>7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>101</time>
+            <pose>6.0 0 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>102</time>
+            <pose>4.5 0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>103</time>
+            <pose>3.5 0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>104</time>
+            <pose>3.0 0 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>105</time>
+            <pose>2.75 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf1-6'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100.01</time>
+            <pose>7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>101</time>
+            <pose>9.0 1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>102</time>
+            <pose>10.5 3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>103</time>
+            <pose>11.5 4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>104</time>
+            <pose>12.0 4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>105</time>
+            <pose>12.25 4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf1-7'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100.01</time>
+            <pose>7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>101</time>
+            <pose>9.0 -1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>102</time>
+            <pose>10.5 -3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>103</time>
+            <pose>11.5 -4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>104</time>
+            <pose>12.0 -4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>105</time>
+            <pose>12.25 -4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf1-8'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100.01</time>
+            <pose>7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>101</time>
+            <pose>6.0 1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>102</time>
+            <pose>4.5 3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>103</time>
+            <pose>3.5 4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>104</time>
+            <pose>3.0 4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>105</time>
+            <pose>2.75 4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf1-9'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100.01</time>
+            <pose>7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>101</time>
+            <pose>6.0 -1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>102</time>
+            <pose>4.5 -3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>103</time>
+            <pose>3.5 -4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>104</time>
+            <pose>3.0 -4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>105</time>
+            <pose>2.75 -4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+<!-- Finish Add sanitizer(fall_front)-->
+<!-- Add sanitizer(fall_back)-->
+    <actor name='sanf2-1'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95.01</time>
+            <pose>-7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>96</time>
+            <pose>-7.5 0 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>97</time>
+            <pose>-7.5 0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>98</time>
+            <pose>-7.5 0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>99</time>
+            <pose>-7.5 0 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf2-2'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95.01</time>
+            <pose>-7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>96</time>
+            <pose>-7.5 1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>97</time>
+            <pose>-7.5 3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>98</time>
+            <pose>-7.5 4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>99</time>
+            <pose>-7.5 4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>-7.5 4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf2-3'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95.01</time>
+            <pose>-7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>96</time>
+            <pose>-7.5 -1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>97</time>
+            <pose>-7.5 -3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>98</time>
+            <pose>-7.5 -4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>99</time>
+            <pose>-7.5 -4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>-7.5 -4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf2-4'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95.01</time>
+            <pose>-7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>96</time>
+            <pose>-9.0 0 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>97</time>
+            <pose>-10.5 0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>98</time>
+            <pose>-11.5 0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>99</time>
+            <pose>-12.0 0 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>-12.25 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf2-5'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95.01</time>
+            <pose>-7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>96</time>
+            <pose>-6.0 0 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>97</time>
+            <pose>-4.5 0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>98</time>
+            <pose>-3.5 0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>99</time>
+            <pose>-3.0 0 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>-2.75 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf2-6'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95.01</time>
+            <pose>-7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>96</time>
+            <pose>-9.0 1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>97</time>
+            <pose>-10.5 3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>98</time>
+            <pose>-11.5 4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>99</time>
+            <pose>-12.0 4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>-12.25 4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf2-7'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95.01</time>
+            <pose>-7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>96</time>
+            <pose>-9.0 -1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>97</time>
+            <pose>-10.5 -3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>98</time>
+            <pose>-11.5 -4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>99</time>
+            <pose>-12.0 -4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>-12.25 -4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf2-8'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95.01</time>
+            <pose>-7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>96</time>
+            <pose>-6.0 1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>97</time>
+            <pose>-4.5 3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>98</time>
+            <pose>-3.5 4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>99</time>
+            <pose>-3.0 4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>-2.75 4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+    <actor name='sanf2-9'>
+      <link name='box_link4'>
+        <visual name='visual'>
+          <geometry>
+            <sphere>
+              <radius>0.05</radius>
+            </sphere>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>40</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>95.01</time>
+            <pose>-7.5 0 5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>96</time>
+            <pose>-6.0 -1.5 4.75 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>97</time>
+            <pose>-4.5 -3.0 4.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>98</time>
+            <pose>-3.5 -4.0 3.5 0 -0 0</pose>
+          </waypoint>
+	  <waypoint>
+            <time>99</time>
+            <pose>-3.0 -4.5 1.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>100</time>
+            <pose>-2.75 -4.75 -0.5 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>-7.5 0 -0.5 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+    </actor>
+<!-- Finish Add sanitizer(fall back)-->
     <actor name='animated_box'>
       <link name='link'>
         <visual name='visual'>
@@ -104653,8 +105786,24 @@
             <pose>0 0 -2 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>100</time>
+            <time>110</time>
             <pose>0 0 -2 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>114</time>
+            <pose>9.1 0 0.1 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>120</time>
+            <pose>9.1 0 0.1 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>135</time>
+            <pose>14 1 0.1 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>145</time>
+            <pose>15.5 0.3 0.1 0 -0 0</pose>
           </waypoint>
         </trajectory>
       </script>
