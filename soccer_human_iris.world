@@ -74779,7 +74779,7 @@
             <pose>5 -4 0 0 0 -3</pose>
           </waypoint>
           <waypoint>
-            <time>70</time>
+            <time>65</time>
             <pose>-7.4 -1.6 0 0 0 -3</pose>
           </waypoint>
           <waypoint>
@@ -105758,23 +105758,27 @@
             <pose>0 0 0.1 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>60</time>
+            <time>55</time>
             <pose>0 0 0.1 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>63</time>
+            <time>58</time>
             <pose>-4.8 3.8 0.1 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>70</time>
+            <time>65</time>
             <pose>-4.8 3.8 0.1 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>77</time>
+            <time>72</time>
             <pose>-7.4 -1.6 2.5 0 -0 0</pose>
           </waypoint>
           <waypoint>
-            <time>84</time>
+            <time>79</time>
+            <pose>-10 -7 0.1 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>80</time>
             <pose>-10 -7 0.1 0 -0 0</pose>
           </waypoint>
           <waypoint>
